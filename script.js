@@ -56,3 +56,6 @@ const latsFormat = `S${formatseasonNum}E${formatepisodeNum}`//S02E07
 }
 
 window.onload = setup;
+
+
+///S02E07
